@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-api?ref=badge_shield)
+
 <!---
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -32,3 +34,6 @@ We welcome contributors, please check out our [guidelines](CONTRIBUTING.md) to g
 Changelog
 ----------
 <<point to the changelog file in github>>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-api?ref=badge_large)
